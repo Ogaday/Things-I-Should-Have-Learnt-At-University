@@ -6,3 +6,6 @@ Unquestionably, I learnt a lot in the last three years, both within and beyond t
 
 Ideally, this could eventually provide the foundation for a blog, lessons for others and a back up of the work I did in the course of my degree.
 
+## Modules
+
+__Programming for Science__ A first year module designed to introduced CS and Maths students to fundamental programming concepts such as conditionals, iteration, recursion, subroutines and implementing algorithms procedurally. The subject matter was delivered in Python 2.7. The code from that course can be found [here](https://github.com/Ogaday/Programming-for-Science).
